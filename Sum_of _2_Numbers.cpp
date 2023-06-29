@@ -9,7 +9,7 @@ int main(){
 
     int amount2;
     cout<<"Enter amount 2:- ";
-    cin>>amount2;
+    cin>>amount2;   
 
     int sum;
     sum = amount1 + amount2;
