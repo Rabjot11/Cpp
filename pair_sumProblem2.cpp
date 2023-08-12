@@ -17,11 +17,12 @@ bool pairsum(int a[], int n, int k){
             low++;
         }
     }
+
     return false;
 }
 
 int main(){
-
+    //array should be in sorted orders
     int a[]= {2,4,7,11,14,16,20,21};
     int k=31;
 
